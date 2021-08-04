@@ -1,0 +1,12 @@
+{
+  "name": "sw-killer",
+  "version": "1.0.0",
+  "description": "Akardiyan'a Ait Sunucu Patlatma Botu",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "^11.5.1",
+    "fs": "^0.0.2"
+  },
+  "author": "Akardiyan",
+  "license": "ISC"
+}
